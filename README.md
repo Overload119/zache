@@ -15,6 +15,9 @@
 [![Hits-of-Code](https://hitsofcode.com/github/yegor256/zache)](https://hitsofcode.com/view/github/yegor256/zache)
 
 It's a simple Ruby gem for in-memory cache.
+
+UPDATE: This removes and resolves the issue [here](https://github.com/yegor256/zache/issues/34).
+
 Read [this blog post](https://www.yegor256.com/2019/02/05/zache.html)
 to understand what Zache is for.
 
